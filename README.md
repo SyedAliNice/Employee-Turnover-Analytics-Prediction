@@ -1,5 +1,6 @@
 
 # Employee Turnover Analytics
+![image alt](https://github.com/SyedAliNice/Employee-Turnover-Analytics-Prediction/blob/bfc2cc6b491a74b2bf2e6e057b2a36e3ab35af9d/a-digital-illustration-of-a-modern-offic_ETVUka16S7qMlJU_3Sp0Ig_Go47kmOfSsWozP2bGLDEqQ-fotor-20250327145058.jpg)
 #   Project Overview
 
 This project analyzes employee turnover using machine learning techniques. The goal is to identify key factors contributing to employee attrition and develop predictive models to understand employee behavior
